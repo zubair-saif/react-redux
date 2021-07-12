@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.css"],"names":[],"mappings":"AAAA,KACE,iBACF,CAGA,cACE,UAAW,CACX,WAAY,CACZ,kBACF","file":"main.341280f2.chunk.css","sourcesContent":[".App {\n  text-align: center;\n}\n\n\n.card-img-top {\n  width: 100%;\n  height: 10vw;\n  object-fit: contain;\n}"]}
