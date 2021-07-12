@@ -43,7 +43,7 @@ function ProductDetails() {
                 <p className="card-text">
                   <small className="text-muted">{category}</small>
                 </p>
-                <a href="#" class="btn btn-primary">{price}</a>
+                <a href="#" class="btn btn-primary">${price}</a>
               </div>
             </div>
           </div>
