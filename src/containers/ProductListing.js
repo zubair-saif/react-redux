@@ -21,7 +21,7 @@ function ProductListing() {
   useEffect(() => {
     getAllProduct();
   }, []);
-  console.log(products)
+  
   return (
     <div className="container">
       <div className="row">
