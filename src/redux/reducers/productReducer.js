@@ -1,4 +1,5 @@
 import { actionType } from "../contant/action-type";
+
 const initialState = {
   products: [],
 };
